@@ -1,0 +1,17 @@
+@media (min-width: 786px) {
+    .w-md-25 {
+        width: 25% !important;
+    }
+
+    .w-md-50 {
+        width: 50% !important;
+    }
+
+    .w-md-75 {
+        width: 75% !important;
+    }
+
+    .w-md-100 {
+        width: 100% !important;
+    }
+}
